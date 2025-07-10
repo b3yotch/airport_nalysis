@@ -1,0 +1,7 @@
+streamlit
+requests
+pandas
+plotly
+# Optional for LLM integration
+openai  # For OpenAI GPT (optional)
+google-generativeai  # For Gemini (optional) 

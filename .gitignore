@@ -1,0 +1,8 @@
+
+
+config.py
+airports.py
+flight_data.
+venv/
+opensky-api/
+__pycache__/
