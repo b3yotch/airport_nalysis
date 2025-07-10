@@ -247,3 +247,7 @@ db.get_demand_analysis(["SYD", "MEL"])
 #### 👥 Capacity Management
 - Forecast busy arrival periods
 - Optimize resources
+
+<img width="1358" height="665" alt="image" src="https://github.com/user-attachments/assets/2328f30c-671d-4f4b-948c-950c812a700f" />
+
+<img width="1365" height="651" alt="image" src="https://github.com/user-attachments/assets/9eea6f14-05b3-4a6d-887d-e88ad8ae10e6" />
